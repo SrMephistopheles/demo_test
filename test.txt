@@ -1,0 +1,2 @@
+##adding a new file via git bash
+print ("Adding a new file via git bash with atom")
